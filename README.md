@@ -1,3 +1,3 @@
 # Hello-github
 first repo  
-this is the first edit in the readme file
+this is the first edit in readme file
